@@ -4,7 +4,7 @@ node_modules/
 # Built files
 coverage/
 .*/
-*.map
 *.tgz
 *.log
-lib/
+
+.DS_Store
